@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triaro" alt="triaro" /> </p>
 
-- 👨‍💻 All of my projects are available at **https://triaro.github.io/** [https://triaro.github.io/](triaro.github.io)
+- 👨‍💻 All of my projects are available at **https://triaro.github.io/** 
 
 - 📫 How to reach me **abhishek.ecebt18@nituk.ac.in**
 
